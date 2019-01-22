@@ -15,7 +15,6 @@ wget = "*"
 django = "*"
 djangorestframework = "*"
 django-cors-headers = "*"
-popmemes = {editable = true,path = "."}
 pyopenssl = "*"
 idna = "*"
 
